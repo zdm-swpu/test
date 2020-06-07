@@ -1,3 +1,4 @@
 test conflicts
 
 modified
+modified the same file in clone

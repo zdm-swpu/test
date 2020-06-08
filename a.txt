@@ -3,3 +3,5 @@ test conflicts
 modified
 
 解决方法：修改冲突的文件
+
+test pull request, resolve bug
